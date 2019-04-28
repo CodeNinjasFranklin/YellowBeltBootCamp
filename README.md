@@ -1,4 +1,4 @@
-# Javascript: Outside the YellowBelt
+# Javascript: Outside the Yellow Belt
 This project contains the code for the projects done in the monday night Code Ninjas Javascript class.
 
 **Contents**
